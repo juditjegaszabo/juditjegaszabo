@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juditjegaszabo
-- 👀 I’m interested in software development and machine learning.
-- 🌱 I’m currently learning to code with Python.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data analysis and machine learning.
+- 🌱 I’m currently learning to code with Python and R; explore SQL; get familiar with data visualisation tools.
+- 💞️ I’m looking to collaborate on data analysis projects.
 - 📫 How to reach me ...
 
 <!---
